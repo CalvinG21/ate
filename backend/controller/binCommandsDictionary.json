@@ -1,0 +1,5 @@
+{
+    "usbCount": "../bins/usbCountCmd.bin",
+    "volume": "../bins/volume.bin"
+    
+}
